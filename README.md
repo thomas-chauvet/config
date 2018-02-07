@@ -7,7 +7,7 @@ Install :
 - R and Rstudio
 - scala (sbt)
 - kafka (with aliases!)
-- some tools (htop, nbdime, setup jupyter with conda env)
+- some tools (htop, nbdime, setup jupyter with conda env, notebook extensions)
 
 ### Warnings
 
